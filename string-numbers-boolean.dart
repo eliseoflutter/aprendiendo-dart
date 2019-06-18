@@ -1,5 +1,3 @@
-import 'dart:core' as prefix0;
-
 main(List<String> arguments){
   int valInt = 1;
   double valDouble = 1 ; 

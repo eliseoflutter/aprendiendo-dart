@@ -15,8 +15,8 @@ print(map);
 print(map.length);
 map.remove(4);
 print(map);
-print(map.isEmpty);// saber si tiene datos o no
-print(map.length); // Saber el tamaño del json
+print(map.isEmpty); // Saber si tiene datos o no
+print(map.length);  // Saber el tamaño del json
 
 
 
